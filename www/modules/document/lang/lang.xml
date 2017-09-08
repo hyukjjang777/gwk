@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<lang>
+	<item name="document_list">
+		<value xml:lang="ko"><![CDATA[문서 목록]]></value>
+		<value xml:lang="en"><![CDATA[Documents List]]></value>
+		<value xml:lang="jp"><![CDATA[ドキュメントリスト]]></value>
+		<value xml:lang="zh-CN"><![CDATA[主题列表]]></value>
+		<value xml:lang="zh-TW"><![CDATA[文章列表]]></value>
+		<value xml:lang="fr"><![CDATA[Liste des Documents]]></value>
+		<value xml:lang="ru"><![CDATA[Список документов]]></value>
+		<value xml:lang="es"><![CDATA[Document list]]></value>
+		<value xml:lang="tr"><![CDATA[Belge Listesi]]></value>
+		<value xml:lang="vi"><![CDATA[Danh sách bài viết]]></value>
+	</item>
+	<item name="thumbnail_type">
+		<value xml:lang="ko"><![CDATA[섬네일 생성 방법]]></value>
+		<value xml:lang="en"><![CDATA[Thumbnail Type]]></value>
+		<value xml:lang="jp"><![CDATA[サムネールタイプ]]></value>
+		<value xml:lang="zh-CN"><![CDATA[缩略图生成方式]]></value>
+		<value xml:lang="zh-TW"><![CDATA[縮圖建立方式]]></value>
+		<value xml:lang="fr"><![CDATA[Type de la Vignette]]></value>
+		<value xml:lang="ru"><![CDATA[Тип миниатюры]]></value>
+		<value xml:lang="tr"><![CDATA[Küçük Resim Türü]]></value>
+		<value xml:lang="vi"><![CDATA[Định dạng hình nhỏ]]></value>
+	</item>
+	<item name="thumbnail_crop">
+		<value xml:lang="ko"><![CDATA[잘라내기 (정해진 크기에 꽉 찬 모습의 썸네일을 만듭니다.)]]></value>
+		<value xml:lang="en"><![CDATA[Crop (to a specific size)]]></value>
+		<value xml:lang="jp"><![CDATA[トリミングする]]></value>
+		<value xml:lang="zh-CN"><![CDATA[裁减(按指定大小裁剪图片)]]></value>
+		<value xml:lang="zh-TW"><![CDATA[裁切]]></value>
+		<value xml:lang="fr"><![CDATA[Rogner]]></value>
+		<value xml:lang="ru"><![CDATA[Обрезать]]></value>
+		<value xml:lang="tr"><![CDATA[Kırpılmış]]></value>
+		<value xml:lang="vi"><![CDATA[Hình cắt]]></value>
+	</item>
+	<item name="thumbnail_ratio">
+		<value xml:lang="ko"><![CDATA[비율 맞추기 (원본 이미지의 비율에 맞춥니다. 다만 정해진 크기에 여백이 생깁니다.)]]></value>
+		<value xml:lang="en"><![CDATA[Ratio (keeping the same aspect ratio as the original image)]]></value>
+		<value xml:lang="jp"><![CDATA[比率に合わせる]]></value>
+		<value xml:lang="zh-CN"><![CDATA[比例(按原图比例缩略处理)]]></value>
+		<value xml:lang="zh-TW"><![CDATA[比例]]></value>
+		<value xml:lang="fr"><![CDATA[Proportion]]></value>
+		<value xml:lang="ru"><![CDATA[Соотношение]]></value>
+		<value xml:lang="tr"><![CDATA[Oran]]></value>
+		<value xml:lang="vi"><![CDATA[Tỉ lệ]]></value>
+	</item>
+	<item name="cmd_delete_all_thumbnail">
+		<value xml:lang="ko"><![CDATA[섬네일 모두 삭제]]></value>
+		<value xml:lang="en"><![CDATA[Delete all thumbnails]]></value>
+		<value xml:lang="jp"><![CDATA[すべてのサムネール削除]]></value>
+		<value xml:lang="zh-CN"><![CDATA[删除全部缩略图]]></value>
+		<value xml:lang="zh-TW"><![CDATA[刪除全部縮圖]]></value>
+		<value xml:lang="fr"><![CDATA[Supprimer toutes les vignettes]]></value>
+		<value xml:lang="ru"><![CDATA[Удалить все миниарюры]]></value>
+		<value xml:lang="tr"><![CDATA[Tüm küçük resimleri sil]]></value>
+		<value xml:lang="vi"><![CDATA[Xóa tất cả hình nhỏ]]></value>
+	</item>
+	<item name="title_bold">
+		<value xml:lang="ko"><![CDATA[제목 굵게]]></value>
+		<value xml:lang="en"><![CDATA[Bold]]></value>
+		<value xml:lang="jp"><![CDATA[タイトル太字]]></value>
+		<value xml:lang="zh-CN"><![CDATA[粗标题]]></value>
+		<value xml:lang="zh-TW"><![CDATA[粗體]]></value>
+		<value xml:lang="fr"><![CDATA[Gras]]></value>
+		<value xml:lang="ru"><![CDATA[Жирное название]]></value>
+		<value xml:lang="tr"><![CDATA[Kalın]]></value>
+		<value xml:lang="vi"><![CDATA[Chữ đậm]]></value>
+	</item>
+	<item name="title_color">
+		<value xml:lang="ko"><![CDATA[제목 색깔]]></value>
+		<value xml:lang="en"><![CDATA[Color]]></value>
+		<value xml:lang="jp"><![CDATA[タイトルの色]]></value>
+		<value xml:lang="zh-CN"><![CDATA[标题颜色]]></value>
+		<value xml:lang="zh-TW"><![CDATA[標題顏色]]></value>
+		<value xml:lang="fr"><![CDATA[Couleur]]></value>
+		<value xml:lang="ru"><![CDATA[Цвет названия]]></value>
+		<value xml:lang="tr"><![CDATA[Renk]]></value>
+		<value xml:lang="vi"><![CDATA[Màu]]></value>
+	</item>
+	<item name="new_document_count">
+		<value xml:lang="ko"><![CDATA[새 글]]></value>
+		<value xml:lang="en"><![CDATA[New documents]]></value>
+		<value xml:lang="jp"><![CDATA[新規]]></value>
+		<value xml:lang="zh-CN"><![CDATA[新帖]]></value>
+		<value xml:lang="zh-TW"><![CDATA[N]]></value>
+		<value xml:lang="fr"><![CDATA[새글]]></value>
+		<value xml:lang="ru"><![CDATA[Новые документы]]></value>
+		<value xml:lang="es"><![CDATA[새글]]></value>
+		<value xml:lang="tr"><![CDATA[Yeni belgeler]]></value>
+		<value xml:lang="vi"><![CDATA[Bài viết mới]]></value>
+	</item>
+	<item name="parent_category_title">
+		<value xml:lang="ko"><![CDATA[상위 카테고리 명]]></value>
+		<value xml:lang="en"><![CDATA[Parent Category]]></value>
+		<value xml:lang="jp"><![CDATA[上位カテゴリ名]]></value>
+		<value xml:lang="zh-CN"><![CDATA[上级分类名]]></value>
+		<value xml:lang="zh-TW"><![CDATA[主分類]]></value>
+		<value xml:lang="fr"><![CDATA[catégorie supérieure]]></value>
+		<value xml:lang="ru"><![CDATA[Название верхней категории]]></value>
+		<value xml:lang="es"><![CDATA[Categoría Superior]]></value>
+		<value xml:lang="tr"><![CDATA[Üst Kategori]]></value>
+		<value xml:lang="vi"><![CDATA[Tên thể loại chính]]></value>
+	</item>
+	<item name="category_title">
+		<value xml:lang="ko"><![CDATA[분류 명]]></value>
+		<value xml:lang="en"><![CDATA[Category]]></value>
+		<value xml:lang="jp"><![CDATA[カテゴリ名]]></value>
+		<value xml:lang="zh-CN"><![CDATA[分类名]]></value>
+		<value xml:lang="zh-TW"><![CDATA[分類名稱]]></value>
+		<value xml:lang="fr"><![CDATA[Catégorie]]></value>
+		<value xml:lang="ru"><![CDATA[Категория]]></value>
+		<value xml:lang="es"><![CDATA[Nombre de la categoría]]></value>
+		<value xml:lang="tr"><![CDATA[Kategori]]></value>
+		<value xml:lang="vi"><![CDATA[Tên thể loại nhỏ]]></value>
+	</item>
+	<item name="category_color">
+		<value xml:lang="ko"><![CDATA[분류 폰트색깔]]></value>
+		<value xml:lang="en"><![CDATA[Category Font Color]]></value>
+		<value xml:lang="jp"><![CDATA[カテゴリ文字色]]></value>
+		<value xml:lang="zh-CN"><![CDATA[分类颜色]]></value>
+		<value xml:lang="zh-TW"><![CDATA[分類顏色]]></value>
+		<value xml:lang="ru"><![CDATA[Цвет шрифта категории]]></value>
+		<value xml:lang="tr"><![CDATA[Kategori Yazı Rengi]]></value>
+		<value xml:lang="vi"><![CDATA[Màu chữ]]></value>
+	</item>
+	<item name="expand">
+		<value xml:lang="ko"><![CDATA[펼침]]></value>
+		<value xml:lang="en"><![CDATA[Expand]]></value>
+		<value xml:lang="jp"><![CDATA[展開]]></value>
+		<value xml:lang="zh-CN"><![CDATA[展开]]></value>
+		<value xml:lang="zh-TW"><![CDATA[展開]]></value>
+		<value xml:lang="fr"><![CDATA[Etendre]]></value>
+		<value xml:lang="ru"><![CDATA[Развернуть]]></value>
+		<value xml:lang="es"><![CDATA[Expandir]]></value>
+		<value xml:lang="tr"><![CDATA[Genişlet]]></value>
+		<value xml:lang="vi"><![CDATA[Mở rộng]]></value>
+	</item>
+	<item name="category_group_srls">
+		<value xml:lang="ko"><![CDATA[그룹 제한]]></value>
+		<value xml:lang="en"><![CDATA[Accessable Group]]></value>
+		<value xml:lang="jp"><![CDATA[グループ制限]]></value>
+		<value xml:lang="zh-CN"><![CDATA[用户组]]></value>
+		<value xml:lang="zh-TW"><![CDATA[群組]]></value>
+		<value xml:lang="fr"><![CDATA[Groupe Accessible]]></value>
+		<value xml:lang="ru"><![CDATA[Доступные группы]]></value>
+		<value xml:lang="es"><![CDATA[Limitar el grupo]]></value>
+		<value xml:lang="tr"><![CDATA[Erişilebilir Grup]]></value>
+		<value xml:lang="vi"><![CDATA[Nhóm được cho phép]]></value>
+	</item>
+	<item name="cmd_make_child">
+		<value xml:lang="ko"><![CDATA[하위 카테고리 추가]]></value>
+		<value xml:lang="en"><![CDATA[Add Child Category]]></value>
+		<value xml:lang="jp"><![CDATA[下位カテゴリ追加]]></value>
+		<value xml:lang="zh-CN"><![CDATA[添加下级分类]]></value>
+		<value xml:lang="zh-TW"><![CDATA[新增子分類]]></value>
+		<value xml:lang="fr"><![CDATA[Ajouter une catégorie inférieure]]></value>
+		<value xml:lang="es"><![CDATA[Agregar sub categoría]]></value>
+		<value xml:lang="tr"><![CDATA[Alt Kategori Ekle]]></value>
+		<value xml:lang="vi"><![CDATA[Thêm thể loại nhỏ]]></value>
+	</item>
+	<item name="cmd_enable_move_category">
+		<value xml:lang="ko"><![CDATA[카테고리 위치 변경 (선택 후 위 메뉴를 드래그하세요.)]]></value>
+		<value xml:lang="en"><![CDATA[Change category position (Select a category and drag it to the position you want.)]]></value>
+		<value xml:lang="jp"><![CDATA[カテゴリ位置変更（選択後上のメニューをドラッグしてください）]]></value>
+		<value xml:lang="zh-CN"><![CDATA[分类顺序(勾选后用鼠标拖动分类项)]]></value>
+		<value xml:lang="zh-TW"><![CDATA[分類順序(勾選後用滑鼠拖曳分類項目)]]></value>
+		<value xml:lang="fr"><![CDATA[Bouger la position de la catégorie (Cochez la case et puis glisser la catégorie que vous voulez déplacer)]]></value>
+		<value xml:lang="ru"><![CDATA[Изменить местоположение категории(после выделения перетащите верхнее меню)]]></value>
+		<value xml:lang="es"><![CDATA[Cambiar la posición de la categoría. (arrastrar y soltar luego de haber selecionado)]]></value>
+		<value xml:lang="tr"><![CDATA[Kategori konumunu değiştir (Seçtikten sonra anamenüyü taşıyınız)]]></value>
+		<value xml:lang="vi"><![CDATA[Thay đổi vị trí thể loại (Kéo lên Menu trên sau khi lựa chọn)]]></value>
+	</item>
+	<item name="about_category_title">
+		<value xml:lang="ko"><![CDATA[카테고리 이름을 입력해주세요.]]></value>
+		<value xml:lang="en"><![CDATA[Please enter a category name.]]></value>
+		<value xml:lang="jp"><![CDATA[カテゴリ名を入力してください。]]></value>
+		<value xml:lang="zh-CN"><![CDATA[请输入分类名。]]></value>
+		<value xml:lang="zh-TW"><![CDATA[請輸入分類名稱。]]></value>
+		<value xml:lang="fr"><![CDATA[Entrez le nom de la catégorie, S.V.P.]]></value>
+		<value xml:lang="ru"><![CDATA[Введите название категории]]></value>
+		<value xml:lang="es"><![CDATA[Ingresar el nombre de la categoría.]]></value>
+		<value xml:lang="tr"><![CDATA[Lütfen kategori ismi giriniz]]></value>
+		<value xml:lang="vi"><![CDATA[Hãy nhập tên thể loại]]></value>
+	</item>
+	<item name="about_expand">
+		<value xml:lang="ko"><![CDATA[선택하면 늘 펼쳐진 상태로 있게 합니다.]]></value>
+		<value xml:lang="en"><![CDATA[Select this option, and they will stay expanded.]]></value>
+		<value xml:lang="jp"><![CDATA[チェックを入れると常に展開された状態になります。]]></value>
+		<value xml:lang="zh-CN"><![CDATA[选择此项将维持展开状态。]]></value>
+		<value xml:lang="zh-TW"><![CDATA[選擇此項將維持展開狀態。]]></value>
+		<value xml:lang="fr"><![CDATA[Si vous cochez la case à cocher, ce sera toujours tendu]]></value>
+		<value xml:lang="ru"><![CDATA[Если эта опция выбрана, расширение будут применено всегда]]></value>
+		<value xml:lang="es"><![CDATA[Si seleccionas esta opción, siempre estará expandido.]]></value>
+		<value xml:lang="tr"><![CDATA[Bu seçimle, her zaman genişletilmiş olacaktır]]></value>
+		<value xml:lang="vi"><![CDATA[Nếu sử dụng tùy chọn này, Thể loại sẽ luôn luôn được trải rộng.]]></value>
+	</item>
+	<item name="about_category_group_srls">
+		<value xml:lang="ko"><![CDATA[선택한 그룹만 현재 카테고리를 지정할 수 있도록 합니다.]]></value>
+		<value xml:lang="en"><![CDATA[Only the selected group will be able to use this category.]]></value>
+		<value xml:lang="jp"><![CDATA[選択したグループのみ、現在のカテゴリの指定ができます。]]></value>
+		<value xml:lang="zh-CN"><![CDATA[所选用户组才可以查看此分类。]]></value>
+		<value xml:lang="zh-TW"><![CDATA[被選擇的群組才可以檢視此分類。]]></value>
+		<value xml:lang="fr"><![CDATA[Le groupe choisi seulement pourra utiliser la catégorie courante]]></value>
+		<value xml:lang="ru"><![CDATA[Только выбранные группы можно отнести к этой категории]]></value>
+		<value xml:lang="es"><![CDATA[선택한 그룹만 현재 카�
